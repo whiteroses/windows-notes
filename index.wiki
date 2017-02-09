@@ -5,9 +5,14 @@
 [command] /?
 	Help
 
-echo
-	Display messages, or turn command-echoing on or off.
-	Use command without paramaters to display current echo setting.
+`echo [{on|off}] [message]`
+	* Display messages, or turn command-echoing on or off.
+	* Use command without parameters to display current echo setting.
+	* To prevent echoing of a line in batch program: `@` in front of a
+	  command.
+	* To echo a blank line: `echo.`
+	* To display pipe `|` or redirection `<` `>` characters with echo, use
+	  caret `^` to escape. Two carets to escape caret.
 
 
 == Services ==
