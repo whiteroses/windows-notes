@@ -1,6 +1,6 @@
-= Windows notes wiki =
+# Windows notes wiki
 
-== To do ==
+## To do
 * cmd/?
 * cmd.exe environment variable substitution? `%%`?
 * cmd.exe quotes and escapes?
@@ -13,7 +13,7 @@
 	Command-line and PowerShell reference?
 
 
-== Command prompt ==
+## Command prompt
 
 `HELP`
 	List of commands
@@ -36,7 +36,7 @@
 	* Without parameters: display the current environment variables.
 
 
-== Services ==
+## Services
 
 Windows Administrative Tools\
 	Services
@@ -46,6 +46,6 @@ Windows Administrative Tools\
 Credential Manager?
 
 
-=== sc ===
+### sc
 Command line program for communicating with the Service Control Manager and
 services.
