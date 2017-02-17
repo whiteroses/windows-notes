@@ -1,8 +1,25 @@
 = Windows notes wiki =
 
+== To do ==
+* cmd/?
+* cmd.exe environment variable substitution? `%%`?
+* cmd.exe quotes and escapes?
+* SET /A and /P?
+* FTYPE?
+* SC?
+* TASKLIST?
+* Command extensions?
+* https://ss64.com/
+	Command-line and PowerShell reference?
+
+
 == Command prompt ==
 
-[command] /?
+`HELP`
+	List of commands
+
+`HELP [COMMAND]`
+`[COMMAND] /?`
 	Help
 
 `echo [{on|off}] [message]`
@@ -13,6 +30,10 @@
 	* To echo a blank line: `echo.`
 	* To display pipe `|` or redirection `<` `>` characters with echo, use
 	  caret `^` to escape. Two carets to escape caret.
+
+`SET [variable=[string]]`
+	* Display, set, or remove cmd.exe environment variables.
+	* Without parameters: display the current environment variables.
 
 
 == Services ==
