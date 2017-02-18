@@ -44,11 +44,11 @@
 
 ## Services
 
-Windows Administrative Tools
-Services
-Task Scheduler
-Task Manager (with Services tab)
-Credential Manager?
+* Windows Administrative Tools
+* Services
+* Task Scheduler
+* Task Manager (with Services tab)
+* Credential Manager?
 
 
 ### sc
