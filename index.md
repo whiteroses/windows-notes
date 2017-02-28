@@ -57,11 +57,11 @@ Command line program for communicating with the Service Control Manager and
 services.
 
 
-### Development
+## Development
 
 [Development](development.md)
 
 
-### Hosts file
+## Hosts file
 
 c:\Windows\System32\Drivers\etc\hosts
