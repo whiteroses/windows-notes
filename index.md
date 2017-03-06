@@ -65,8 +65,3 @@ services.
 ### Networking
 
 [Networking](networking.md)
-
-
-## Hosts file
-
-c:\Windows\System32\Drivers\etc\hosts
