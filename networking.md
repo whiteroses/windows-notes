@@ -3,8 +3,7 @@
 
 ## Find open ports
 
-`netstat` in command prompt. May need command prompt in Administrator mode to
-see all processes? (Test?)
+`netstat` in Admin command prompt.
 
 
 ## Hosts file
