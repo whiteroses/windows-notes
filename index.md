@@ -1,5 +1,10 @@
 # Windows notes wiki
 
+## Topics
+
+[Window management](window_management.md)
+
+
 ## To do
 * cmd/?
 * cmd.exe environment variable substitution? `%%`?
